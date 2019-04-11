@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "starter_kit",
+  "description": "Chrome Extansion Starter Kit",
+  "version": "1",
+  "author": "Andy Feng",
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_title": "Hello world",
+    "default_popup": "popup.html"
+  },
+  "chrome_url_overrides" : {},
+  "permissions": []
+}
